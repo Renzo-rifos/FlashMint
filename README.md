@@ -22,7 +22,7 @@ AI-powered flashcard generator. Enter any topic and get a set of study cards gen
 | Styling | CSS vanilla (no UI library) |
 | AI | Gemini 2.5 Flash REST API |
 | Persistence | localStorage |
-| Deploy | — |
+| Deploy | [flash-mint-nyal55hy6-renzo-rifos-projects.vercel.app](https://flash-mint-nyal55hy6-renzo-rifos-projects.vercel.app) |
 
 ## Architecture
 
